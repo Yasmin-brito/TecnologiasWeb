@@ -1,0 +1,54 @@
+.google{
+    font-family: Product sans-serif;
+    font-size: 100px;
+    text-align: center;
+    align-items: center;
+}
+#G {
+    font-weight: bold;
+    text-shadow: 2px 6px 6px gray;
+    color: rgb(13, 65, 233);
+    letter-spacing: -25px;
+}
+#o1{
+    color: rgba(176, 16, 16, 0.874);
+    text-shadow: 2px 6px 6px gray;
+    letter-spacing: -25px;
+}
+#o2 {
+    color: rgb(255, 206, 8);
+    text-shadow: 2px 6px 6px gray;
+    letter-spacing: -25px;
+}
+#g{
+    color: rgb(13, 65, 233);
+    text-shadow: 2px 6px 6px gray;
+    letter-spacing: -25px;
+}
+#l{
+    color: rgb(140, 215, 18);
+    text-shadow: 2px 6px 6px gray;
+    letter-spacing: -25px;
+}
+#e{
+    color: rgba(176, 16, 16, 0.874) ;
+    text-shadow: 2px 6px 6px gray;
+}
+.buttom{
+    text-align: center;
+    align-items: center;
+}
+p {
+    text-align: center;
+}
+h4 {
+    padding: 14px;
+    text-align: center;
+    font-size: 13px;
+}
+#botao{
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px;
+}
